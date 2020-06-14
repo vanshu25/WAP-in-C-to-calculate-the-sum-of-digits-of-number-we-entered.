@@ -1,0 +1,1 @@
+# WAP-in-C-to-calculate-the-sum-of-digits-of-number-we-entered.
